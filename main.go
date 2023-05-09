@@ -31,7 +31,6 @@ func main() {
 			})
 		}
 	}
-	// test
 	// for y := 0; y < h; y++ {
 	// 	for x := 0; x < w; x++ {
 	// 		img.Set(x, y, color.RGBA{255, 255, 255, 255})
